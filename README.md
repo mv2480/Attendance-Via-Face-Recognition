@@ -32,6 +32,7 @@ In this project we will first detect face via webcam using Face Recognition libr
 5) Install Face Recognition
 ---
 ## Output
+![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/60354122/100103895-80225e80-2e8b-11eb-85aa-88ba896e3292.gif)
 
 
 
